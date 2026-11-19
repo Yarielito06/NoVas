@@ -1,8 +1,12 @@
+<p align="center"><img src="docs/images/novas-hero.png" alt="NoVas, a pocket friend with a face" width="720"></p>
+
 # NoVas
 
 **A tiny pocket friend with a face.** NoVas is a keychain-sized gadget with a touch screen and a pair of pixel eyes that feel alive. It blinks, looks around, gets curious, gets sleepy, falls in love when you hold it, and answers yes-or-no questions when you shake it. It also tells the time and shows its battery.
 
 Everything here is open: the MicroPython program, the 3D-printable case (and the code that generates it), and the tools I used to make it. You can build your own.
+
+![Five NoVas showing different faces](docs/images/novas-faces.png)
 
 ![NoVas eyes in different moods](docs/images/pixel-eyes.png)
 
