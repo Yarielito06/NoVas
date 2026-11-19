@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.mpy
+crash.log
+bonds.json
+.venv/
+.DS_Store
+hardware/stl_generated/
