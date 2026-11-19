@@ -16,6 +16,17 @@ Everything here is open: the MicroPython program, the 3D-printable case (and the
 
 ---
 
+## Concept renders
+
+<p align="center">
+  <img src="docs/images/concept-table.jpg" alt="Concept render: NoVas standing on a table" width="48%">
+  <img src="docs/images/concept-bag.jpg" alt="Concept render: NoVas hanging from a bag as a keychain" width="48%">
+</p>
+
+*Concept renders of what NoVas looks like in everyday life. They are illustrations, not photos of the real device: a real print has visible layer lines and a smaller, less bright screen.*
+
+---
+
 ## What it does
 
 - **Alive eyes.** Soft springs move the eyes and pupils, each eye follows a little late, the pupils dart around by themselves, and the eyelids blink slowly and naturally. Nothing repeats exactly.
